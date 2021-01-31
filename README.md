@@ -1,2 +1,2 @@
-# DataApi
-Working with API chapter 17 from Eric Matthes book.
+# Работа с API
+Глава 17 книги "изучаем Python - программирование игр, визуализация данных, веб-приложения. Эрик Мэтиз"
